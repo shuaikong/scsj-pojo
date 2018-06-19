@@ -1,0 +1,5 @@
+com\scsj\pojo\vo\ResponseVo$ResponseVoBuilder.class
+com\scsj\pojo\enumeration\ClientTypeEnum.class
+com\scsj\pojo\vo\ResponseVo.class
+com\scsj\pojo\entity\BaseEntity.class
+com\scsj\pojo\enumeration\CodeEnum.class
