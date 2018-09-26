@@ -27,6 +27,8 @@ public class ResponseVo<T> implements Serializable {
   private T data;
   private String a;
 
+  private String b;
+
   public static ResponseVo success() {
     return ResponseVo.builder()
         .success(true)
