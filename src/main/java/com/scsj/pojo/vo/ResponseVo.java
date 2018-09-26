@@ -25,7 +25,6 @@ public class ResponseVo<T> implements Serializable {
   private int statusCode;
   // 返回的具体数据
   private T data;
-  private String a;
 
   public static ResponseVo success() {
     return ResponseVo.builder()
